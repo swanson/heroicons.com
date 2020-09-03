@@ -2813,10 +2813,10 @@ he@1.1.1:
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
   integrity sha1-k0EP0hsAlzUVH4howvJx80J+I/0=
 
-heroicons@^0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/heroicons/-/heroicons-0.4.1.tgz#10ae5da3ec971c263aee3b2a31c304f4b2878a7e"
-  integrity sha512-gcKUknRhgDdX1eBy099wT0ZzwWxlu6ta/V0VDOtOGt0MeC5BWNu0AfUdzjnTT85DRlydu/3mBkboa5BLTTqxrQ==
+heroicons@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/heroicons/-/heroicons-0.4.2.tgz#edaffde42d14bffdd456f0566fd9b8e295ad69e2"
+  integrity sha512-24Bc6LKmamKHzGiNC80/r9v/7pQrma2V5KlaLUHGoarqm+hggmxnngU+RjHQT8sANWPa5FWKLftn4fpmvry/7w==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
